@@ -1,0 +1,14 @@
+F:\UTS\Teaching\Spring 2018\Spring 2018\31927 Net programming\Lectures-pptx\Week-10\Tutorial\Tutorial lab 9ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.csprojAssemblyReference.cache
+F:\UTS\Teaching\Spring 2018\Spring 2018\31927 Net programming\Lectures-pptx\Week-10\Tutorial\Tutorial lab 9ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.csproj.CoreCompileInputs.cache
+F:\UTS\Teaching\Spring 2018\Spring 2018\31927 Net programming\Lectures-pptx\Week-10\Tutorial\Tutorial lab 9ProgrammingQuestions\Week10Program1\Week10Program1\bin\Debug\Week10Program1.exe.config
+F:\UTS\Teaching\Spring 2018\Spring 2018\31927 Net programming\Lectures-pptx\Week-10\Tutorial\Tutorial lab 9ProgrammingQuestions\Week10Program1\Week10Program1\bin\Debug\Week10Program1.exe
+F:\UTS\Teaching\Spring 2018\Spring 2018\31927 Net programming\Lectures-pptx\Week-10\Tutorial\Tutorial lab 9ProgrammingQuestions\Week10Program1\Week10Program1\bin\Debug\Week10Program1.pdb
+F:\UTS\Teaching\Spring 2018\Spring 2018\31927 Net programming\Lectures-pptx\Week-10\Tutorial\Tutorial lab 9ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.exe
+F:\UTS\Teaching\Spring 2018\Spring 2018\31927 Net programming\Lectures-pptx\Week-10\Tutorial\Tutorial lab 9ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.pdb
+C:\Users\erenc\Desktop\_Uni Work\Resources\2022_Spring\App dev .NET\Tutorial-Lab-9-ProgrammingQuestions\Week10Program1\Week10Program1\bin\Debug\Week10Program1.exe.config
+C:\Users\erenc\Desktop\_Uni Work\Resources\2022_Spring\App dev .NET\Tutorial-Lab-9-ProgrammingQuestions\Week10Program1\Week10Program1\bin\Debug\Week10Program1.exe
+C:\Users\erenc\Desktop\_Uni Work\Resources\2022_Spring\App dev .NET\Tutorial-Lab-9-ProgrammingQuestions\Week10Program1\Week10Program1\bin\Debug\Week10Program1.pdb
+C:\Users\erenc\Desktop\_Uni Work\Resources\2022_Spring\App dev .NET\Tutorial-Lab-9-ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.csproj.AssemblyReference.cache
+C:\Users\erenc\Desktop\_Uni Work\Resources\2022_Spring\App dev .NET\Tutorial-Lab-9-ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.csproj.CoreCompileInputs.cache
+C:\Users\erenc\Desktop\_Uni Work\Resources\2022_Spring\App dev .NET\Tutorial-Lab-9-ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.exe
+C:\Users\erenc\Desktop\_Uni Work\Resources\2022_Spring\App dev .NET\Tutorial-Lab-9-ProgrammingQuestions\Week10Program1\Week10Program1\obj\Debug\Week10Program1.pdb
